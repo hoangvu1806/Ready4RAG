@@ -1,0 +1,42 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# virtual environments
+.venv/
+venv/
+env/
+.env
+
+# environment configuration (keep .env.example)
+!.env.example
+
+# database artifacts (auto-generated at runtime)
+database/
+data/
+output/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
