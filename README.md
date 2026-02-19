@@ -1,9 +1,7 @@
 
 <div align="center">
 
-
-<div style="font-size: 2.5em; font-weight: bold;">Ready4<span style="color: #FF4500;">RAG</span></div>
-
+# **Ready4RAG**
 ### High-Precision Dual-Layer RAG Pipeline
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
